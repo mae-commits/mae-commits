@@ -1,28 +1,24 @@
-# Hi there, I'm Mae! 👋
+# Hi there, I'm Naoki Maekawa! 👋
 
 I'm a passionate developer who loves to contribute to open-source projects and build innovative solutions. My main areas of interest are web development, machine learning, and DevOps. I'm always eager to learn new technologies and improve my skills.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frontend:** React, Vue.js, HTML, CSS, SASS
-- **Backend:** Node.js, Express, Django, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
-- **Machine Learning:** TensorFlow, PyTorch, scikit-learn
-- **Other Tools:** Git, VS Code, Webpack, Babel
+- **Languages:** Python, Go
+- **Frontend:** Vue.js, HTML, CSS
+- **Backend:** Django, Flask
+- **Databases:** MySQL, PostgreSQL
+- **DevOps:** Docker
+- **Machine Learning:** PyTorch, scikit-learn
+- **Other Tools:** Git, VS Code
 
 ## 🌱 Current Projects
 
-- **[Awesome Project](https://github.com/mae-commits/awesome-project):** A web application that helps users manage their tasks efficiently.
-- **[ML Fun](https://github.com/mae-commits/ml-fun):** A collection of machine learning projects and experiments.
-- **[DevOps Playground](https://github.com/mae-commits/devops-playground):** A repository to explore and learn various DevOps tools and practices.
 
 ## 📫 How to Reach Me
 
-- **Email:** [mae@example.com](mailto:mae@example.com)
-- **LinkedIn:** [Mae's LinkedIn](https://www.linkedin.com/in/mae-commits)
-- **Twitter:** [@mae_commits](https://twitter.com/mae_commits)
+- **LinkedIn:** [Maekawa's LinkedIn]([https://www.linkedin.com/in/naoki-maekawa-081246246/])
+- **X:** [@mae_commits]([https://x.com/pg87029725])
 
 ## 📈 GitHub Stats
 
