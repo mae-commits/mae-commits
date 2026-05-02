@@ -49,5 +49,4 @@ University of Tokyo — M.Eng, Materials Engineering ('24)
 - **X:** [@mae_commits](https://x.com/pg87029725)
 
 ## 📈 GitHub Stats
-
-![Mae's GitHub stats](https://github-readme-stats.vercel.app/api?username=mae-commits&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mae-commits)](https://github.com/ryo-ma/github-profile-trophy)
